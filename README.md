@@ -1,5 +1,11 @@
 ## 🧑🏽‍🦰 Sistema de Cadastros em Java
 Um programa de um sistema de cadastros desenvolvido em Java com o objetivo de solidificar os conhecimentos de orientacão a objetos.
+
+## 💻 Funcionalidades
+- Cadastrar usuários
+- Pesquisar usuários por nome
+- Cadastrar e deletar perguntas no forumlário de cadastro
+
 ## ⚠️ Como executar
 O programa deve ser executado pelo terminal.
 1. Clone este repositório em sua máquina local
