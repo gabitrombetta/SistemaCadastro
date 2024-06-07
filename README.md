@@ -4,7 +4,7 @@ Um programa de um sistema de cadastros desenvolvido em Java com o objetivo de so
 ## 💻 Funcionalidades
 - Cadastrar usuários
 - Pesquisar usuários por nome
-- Cadastrar e deletar perguntas no forumlário de cadastro
+- Cadastrar e deletar perguntas no formulário de cadastro
 
 ## ⚠️ Como executar
 O programa deve ser executado pelo terminal.
